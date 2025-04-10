@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/blowfish-deploy-actions/en/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/blowfish-deploy-actions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blowfish-deploy-actions/en/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blowfish-deploy-actions/en/categories/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/blowfish-deploy-actions/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blowfish-deploy-actions/en/categories/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blowfish-deploy-actions/en/tags/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/blowfish-deploy-actions/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blowfish-deploy-actions/en/tags/"
+    />
+  </url>
+</urlset>
