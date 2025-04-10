@@ -27,8 +27,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Utilisation du token GitHub pour l'authentification
           publish_dir: ./public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          FORCE_ORPHAN: true  # Forcer l'utilisation de la branche 'gh-pages' même en cas de conflits
+          force_orphan: true  # Forcer l'utilisation de la branche 'gh-pages' même en cas de conflits
