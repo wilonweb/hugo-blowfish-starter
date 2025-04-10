@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mon site Blowfish Starter</title>
-    <link>http://localhost:1313/blowfish-deploy-actions/</link>
+    <link>http://localhost:1313/hugo-blowfish-starter/</link>
     <description>Recent content on Mon site Blowfish Starter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blowfish-deploy-actions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-blowfish-starter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/blowfish-deploy-actions/about/</link>
+      <link>http://localhost:1313/hugo-blowfish-starter/about/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish-deploy-actions/about/</guid>
+      <guid>http://localhost:1313/hugo-blowfish-starter/about/</guid>
       <description>&lt;p&gt;Ceci est ton premier post avec Blowfish 🚀&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/blowfish-deploy-actions/posts/hello-world/</link>
+      <link>http://localhost:1313/hugo-blowfish-starter/posts/hello-world/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blowfish-deploy-actions/posts/hello-world/</guid>
+      <guid>http://localhost:1313/hugo-blowfish-starter/posts/hello-world/</guid>
       <description>&lt;p&gt;Ceci est ton premier post avec Blowfish 🚀&lt;/p&gt;</description>
       
     </item>

@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/blowfish-deploy-actions/en/</loc>
+    <loc>http://localhost:1313/hugo-blowfish-starter/en/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/blowfish-deploy-actions/"
+      href="http://localhost:1313/hugo-blowfish-starter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blowfish-deploy-actions/en/"
+      href="http://localhost:1313/hugo-blowfish-starter/en/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/blowfish-deploy-actions/en/categories/</loc>
+    <loc>http://localhost:1313/hugo-blowfish-starter/en/categories/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/blowfish-deploy-actions/categories/"
+      href="http://localhost:1313/hugo-blowfish-starter/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blowfish-deploy-actions/en/categories/"
+      href="http://localhost:1313/hugo-blowfish-starter/en/categories/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/blowfish-deploy-actions/en/tags/</loc>
+    <loc>http://localhost:1313/hugo-blowfish-starter/en/tags/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/blowfish-deploy-actions/tags/"
+      href="http://localhost:1313/hugo-blowfish-starter/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blowfish-deploy-actions/en/tags/"
+      href="http://localhost:1313/hugo-blowfish-starter/en/tags/"
     />
   </url>
 </urlset>

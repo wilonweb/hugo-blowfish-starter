@@ -1,4 +1,4 @@
-baseURL = "https://tonpseudo.github.io/blowfish-deploy-actions/"
+baseURL = "https://wilonweb.github.io/hugo-blowfish-starter/"
 title = "Mon site Blowfish Starter"
 theme = "blowfish"
 defaultContentLanguage = "fr"
