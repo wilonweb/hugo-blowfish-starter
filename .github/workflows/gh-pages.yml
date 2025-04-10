@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # ou 'main' si ta branche principale s'appelle 'main'
+      - main  # ou 'main' si ta branche principale s'appelle 'main'
 
 permissions:
   contents: write  # Autorise à pousser dans le repo
