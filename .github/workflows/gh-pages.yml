@@ -3,16 +3,16 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # ou 'main' si ta branche par défaut est 'main'
+      - master  # ou 'main' si ta branche principale s'appelle 'main'
 
 permissions:
-  contents: write  # Autoriser à pousser sur le repo
+  contents: write  # Autorise à pousser dans le repo
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Setup Hugo
@@ -27,6 +27,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Utilisation du token GitHub pour l'authentification
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}  # Utilise le Personal Access Token que tu as ajouté comme secret
           publish_dir: ./public
-          force_orphan: true  # Forcer l'utilisation de la branche 'gh-pages' même en cas de conflits
+          force_orphan: true
