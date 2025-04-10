@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/hugo-blowfish-starter/en/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/hugo-blowfish-starter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/hugo-blowfish-starter/en/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo-blowfish-starter/en/categories/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/hugo-blowfish-starter/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/hugo-blowfish-starter/en/categories/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo-blowfish-starter/en/tags/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/hugo-blowfish-starter/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/hugo-blowfish-starter/en/tags/"
+    />
+  </url>
+</urlset>
