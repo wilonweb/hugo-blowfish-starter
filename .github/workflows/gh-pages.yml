@@ -3,10 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master  # ou main si ta branche s'appelle main
+      - master  # ou 'main' si ta branche par défaut est 'main'
 
 permissions:
-  contents: write
+  contents: write  # Autoriser à pousser sur le repo
 
 jobs:
   deploy:
@@ -21,11 +21,14 @@ jobs:
           hugo-version: '0.145.0'
           extended: true
 
-      - name: Build
+      - name: Build the site
         run: hugo --minify
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE_ORPHAN: true  # Forcer l'utilisation de la branche 'gh-pages' même en cas de conflits
