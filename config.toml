@@ -1,6 +1,6 @@
 baseURL = "https://wilonweb.github.io/hugo-blowfish-starter/"
 title = "Mon site Blowfish Starter"
-theme = "blowfish"
+theme = "ananke"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 enableRobotsTXT = true

@@ -4,10 +4,8 @@
     <title>Tags on Mon site Blowfish Starter</title>
     <link>http://localhost:1313/hugo-blowfish-starter/tags/</link>
     <description>Recent content in Tags on Mon site Blowfish Starter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr</language>
-    <copyright>© 2025 </copyright>
     <atom:link href="http://localhost:1313/hugo-blowfish-starter/tags/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>
