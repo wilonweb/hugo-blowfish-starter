@@ -29,4 +29,5 @@ jobs:
         with:
           github_token: ${{ secrets.MY_GITHUB_TOKEN }}  # Utilise le Personal Access Token que tu as ajouté comme secret
           publish_dir: ./public
+          publish_branch: gh-pages  # Cette ligne est ajoutée pour spécifier la branche de déploiement
           force_orphan: true

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-blowfish-starter/about/</loc>
+    <loc>http://localhost:60895/hugo-blowfish-starter/about/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blowfish-starter/posts/hello-world/</loc>
+    <loc>http://localhost:60895/hugo-blowfish-starter/posts/hello-world/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blowfish-starter/</loc>
+    <loc>http://localhost:60895/hugo-blowfish-starter/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blowfish-starter/posts/</loc>
+    <loc>http://localhost:60895/hugo-blowfish-starter/posts/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-blowfish-starter/categories/</loc>
+    <loc>http://localhost:60895/hugo-blowfish-starter/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-blowfish-starter/tags/</loc>
+    <loc>http://localhost:60895/hugo-blowfish-starter/tags/</loc>
   </url>
 </urlset>
